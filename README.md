@@ -1,7 +1,6 @@
 # Online_course_apps
 
-A new Flutter project.
-
+Un design UI pour les cours en ligne construit avec flutter
 ## Getting Started
 
 This project is a starting point for a Flutter application.
